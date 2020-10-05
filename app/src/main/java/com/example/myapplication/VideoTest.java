@@ -34,7 +34,7 @@ public class VideoTest extends AppCompatActivity implements View.OnClickListener
     private Button btnSelect,btnUpload;
     private static final int ZIRTIRTU_VIDEO_REQUEST = 234;
     private Uri filePath;
-
+    private String MALIANA="CCC";
     private String path="https://firebasestorage.googleapis.com/v0/b/zirtirtu-6b320.appspot.com/o/IncidentReport%20%3A%3Dmp4?alt=media&token=198f44f1-cb8c-43cb-ad46-985404ea943a";
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
