@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805927472615",
+    "firebase_url": "https://zirtirtu-6b320.firebaseio.com",
+    "project_id": "zirtirtu-6b320",
+    "storage_bucket": "zirtirtu-6b320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805927472615:android:befd17afe2249b24084142",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805927472615-9sr1ehut6idkt7nphtchc3s29tec384a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6ePQB1i8ZKzbkW7jkz2g0TdQzldp62I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805927472615-9sr1ehut6idkt7nphtchc3s29tec384a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
